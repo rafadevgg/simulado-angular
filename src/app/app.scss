@@ -1,0 +1,21 @@
+.jogadores-escalados {
+  margin-top: 2rem;
+  text-align: center;
+
+  table {
+    margin: 0 auto;
+    width: 80%;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+  }
+
+  .mensagem-vazia {
+    margin-top: 1rem;
+    font-style: italic;
+    color: #666;
+  }
+}
